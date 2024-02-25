@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.eclipse.org/californium/_index/</loc>
+    <loc>https://eclipse.dev/californium/_index/</loc>
     <lastmod>2019-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.eclipse.org/californium/categories/</loc>
+    <loc>https://eclipse.dev/californium/categories/</loc>
   </url><url>
-    <loc>https://www.eclipse.org/californium/</loc>
+    <loc>https://eclipse.dev/californium/</loc>
   </url><url>
-    <loc>https://www.eclipse.org/californium/tags/</loc>
+    <loc>https://eclipse.dev/californium/tags/</loc>
   </url>
 </urlset>
